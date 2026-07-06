@@ -10,7 +10,7 @@ It follows an LLM-maintained wiki pattern:
 
 Start with [wiki/index.md](wiki/index.md) for the content catalog and [wiki/log.md](wiki/log.md) for the chronological maintenance record.
 
-Local Codex skills for this repository live under `.codex/skills/`:
+Local Claude Code skills for this repository live under `.claude/skills/`:
 
 - `llm-wiki-ingest`
 - `llm-wiki-query`
